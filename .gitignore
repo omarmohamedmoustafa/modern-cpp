@@ -1,0 +1,38 @@
+# PlatformIO build directory
+.pio/
+
+# PlatformIO local environment configuration
+platformio.ini.local
+
+# PlatformIO project configuration
+platformio.ini.bak
+
+# PlatformIO dependency files
+.piolibdeps/
+
+# VSCode settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# Compiled binaries
+*.bin
+*.hex
+*.elf
+*.o
+*.a
+*.d
+*.lst
+*.map
+
+# Dependency directories
+lib/
