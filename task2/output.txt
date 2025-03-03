@@ -1,0 +1,80 @@
+Point two-parameter constructor called.
+Point Data: x = 12, y = 20
+Point Data: x = -5, y = 132
+Point two-parameter constructor called.
+Circle three-parameter constructor called.
+Point two-parameter constructor called.
+Point two-parameter constructor called.
+Rectangle four-parameter constructor called.
+Point two-parameter constructor called.
+Point two-parameter constructor called.
+Line four-parameter constructor called.
+Center: Point Data: x = 250, y = 150
+Radius: 100
+Upper Left: Point Data: x = 10, y = 100
+Lower Right: Point Data: x = 90, y = 350
+Start: Point Data: x = 30, y = 100
+End: Point Data: x = 350, y = 400
+Point two-parameter constructor called.
+Circle three-parameter constructor called.
+Point two-parameter constructor called.
+Circle three-parameter constructor called.
+Point two-parameter constructor called.
+Circle three-parameter constructor called.
+Point two-parameter constructor called.
+Point two-parameter constructor called.
+Rectangle four-parameter constructor called.
+Point two-parameter constructor called.
+Point two-parameter constructor called.
+Rectangle two-point constructor called.
+Point destructor called.
+Point destructor called.
+Point two-parameter constructor called.
+Point two-parameter constructor called.
+Line two-point constructor called.
+Point destructor called.
+Point destructor called.
+Point two-parameter constructor called.
+Point two-parameter constructor called.
+Line four-parameter constructor called.
+Center: Point Data: x = 50, y = 50
+Radius: 50
+Center: Point Data: x = 200, y = 100
+Radius: 100
+Center: Point Data: x = 420, y = 50
+Radius: 30
+Upper Left: Point Data: x = 30, y = 40
+Lower Right: Point Data: x = 170, y = 100
+Upper Left: Point Data: x = 420, y = 50
+Lower Right: Point Data: x = 500, y = 300
+Start: Point Data: x = 420, y = 50
+End: Point Data: x = 300, y = 300
+Start: Point Data: x = 40, y = 500
+End: Point Data: x = 500, y = 400
+Line destructor called.
+Point destructor called.
+Point destructor called.
+Line destructor called.
+Point destructor called.
+Point destructor called.
+Rectangle destructor called.
+Point destructor called.
+Point destructor called.
+Rectangle destructor called.
+Point destructor called.
+Point destructor called.
+Circle destructor called.
+Point destructor called.
+Circle destructor called.
+Point destructor called.
+Circle destructor called.
+Point destructor called.
+Line destructor called.
+Point destructor called.
+Point destructor called.
+Rectangle destructor called.
+Point destructor called.
+Point destructor called.
+Circle destructor called.
+Point destructor called.
+Point destructor called.
